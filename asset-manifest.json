@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/onepiece-memory-game/static/css/main.113a252c.css",
+    "main.js": "/onepiece-memory-game/static/js/main.3592e122.js",
+    "static/media/Usopp.jpg": "/onepiece-memory-game/static/media/Usopp.d4b897c540f1a255810e.jpg",
+    "static/media/Nami.jpg": "/onepiece-memory-game/static/media/Nami.966a0752da6d2cd1cede.jpg",
+    "static/media/Ace.jpg": "/onepiece-memory-game/static/media/Ace.bde71fa60654e3f55e46.jpg",
+    "static/media/Zoro.jpg": "/onepiece-memory-game/static/media/Zoro.71870c3e3469e9518495.jpg",
+    "static/media/Buggy.jpg": "/onepiece-memory-game/static/media/Buggy.a0b14c2f70fcbab3383d.jpg",
+    "static/media/Luffy.jpg": "/onepiece-memory-game/static/media/Luffy.7f04acaa38982ad1d936.jpg",
+    "static/media/Chopper.jpg": "/onepiece-memory-game/static/media/Chopper.73013aa49bf618dc60ce.jpg",
+    "static/media/Franky.jpg": "/onepiece-memory-game/static/media/Franky.ec64f8ed108113dbc285.jpg",
+    "static/media/Sanji.jpg": "/onepiece-memory-game/static/media/Sanji.d2807ad3f850a2af18a5.jpg",
+    "static/media/Law.jpg": "/onepiece-memory-game/static/media/Law.e7add9d9ce040fe16267.jpg",
+    "static/media/Shanks.jpg": "/onepiece-memory-game/static/media/Shanks.4d54184629ea4a2d38ad.jpg",
+    "static/media/Robin.jpg": "/onepiece-memory-game/static/media/Robin.cae717d30d886406e81f.jpg",
+    "index.html": "/onepiece-memory-game/index.html",
+    "main.113a252c.css.map": "/onepiece-memory-game/static/css/main.113a252c.css.map",
+    "main.3592e122.js.map": "/onepiece-memory-game/static/js/main.3592e122.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.113a252c.css",
+    "static/js/main.3592e122.js"
+  ]
+}
